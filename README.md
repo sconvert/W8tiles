@@ -1,5 +1,9 @@
-windows8-animations
+#windows8-animations
 ===================
+
+Simplified Windows 8 tiles from Sara Soueidan.
+
+[Project page](http://sconvert.github.io/W8tiles)
 
 Demo for the tutorial "[How to Create Windows-8-like Animations with CSS3 and jQuery](http://sarasoueidan.com/blog/windows8-animations)".
 
